@@ -42,7 +42,7 @@
             "utility"
         ],
         "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/master/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/main/images/icon.png",
         "DownloadLinkInstall": "https://github.com/Rowsai/HappyTrigger/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/Rowsai/HappyTrigger/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Rowsai/HappyTrigger/releases/latest/download/latest.zip",
