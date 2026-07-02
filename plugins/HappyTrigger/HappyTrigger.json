@@ -1,0 +1,18 @@
+{
+  "Author": "Rowsai",
+  "Name": "HappyTrigger",
+  "Punchline": "Trigger-based text display utility for FFXIV.",
+  "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
+  "InternalName": "HappyTrigger",
+  "AssemblyVersion": "0.0.0.1",
+  "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "trigger",
+    "overlay",
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/master/images/icon.png",
+  "Changelog": "https://github.com/Rowsai/HappyTrigger/releases"
+}

@@ -1,0 +1,21 @@
+{
+  "Author": "Rowsai",
+  "Name": "magicLook",
+  "InternalName": "magicLook",
+  "AssemblyVersion": "0.0.0.5",
+  "Description": "絶妖星乱舞の詠唱アクションを監視し、指定アクション時にプレイヤー頭上へテキストを表示します。",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "kefka",
+    "ultimate",
+    "overlay",
+    "magicLook"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "絶妖星乱舞 ケフカ詠唱テキスト表示",
+  "AcceptsFeedback": true
+}
