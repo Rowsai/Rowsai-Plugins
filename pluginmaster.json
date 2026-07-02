@@ -41,7 +41,7 @@
             "overlay",
             "utility"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/master/images/icon.png",
         "DownloadLinkInstall": "https://github.com/Rowsai/HappyTrigger/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/Rowsai/HappyTrigger/releases/latest/download/latest.zip",
