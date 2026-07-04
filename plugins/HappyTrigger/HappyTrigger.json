@@ -4,7 +4,7 @@
     "Punchline": "Trigger-based text display utility for FFXIV.",
     "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
     "InternalName": "HappyTrigger",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
     "ApplicableVersion": "any",
     "Tags": [
@@ -15,7 +15,7 @@
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/main/images/icon.png",
     "Changelog": "https://github.com/Rowsai/HappyTrigger/releases",
-    "DownloadLinkInstall": "https://github.com/Rowsai/HappyTrigger/releases/download/v0.0.0.1/HappyTrigger.zip",
-    "DownloadLinkTesting": "https://github.com/Rowsai/HappyTrigger/releases/download/v0.0.0.1/HappyTrigger.zip",
-    "DownloadLinkUpdate": "https://github.com/Rowsai/HappyTrigger/releases/download/v0.0.0.1/HappyTrigger.zip"
+    "DownloadLinkInstall": "https://github.com/Rowsai/HappyTrigger/releases/download/v0.0.0.2/HappyTrigger.zip",
+    "DownloadLinkTesting": "https://github.com/Rowsai/HappyTrigger/releases/download/v0.0.0.2/HappyTrigger.zip",
+    "DownloadLinkUpdate": "https://github.com/Rowsai/HappyTrigger/releases/download/v0.0.0.2/HappyTrigger.zip"
 }
