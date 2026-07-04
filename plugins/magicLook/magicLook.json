@@ -2,7 +2,7 @@
   "Author": "Rowsai",
   "Name": "magicLook",
   "InternalName": "magicLook",
-  "AssemblyVersion": "0.0.0.5",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "絶妖星乱舞の詠唱アクションを監視し、指定アクション時にプレイヤー頭上へテキストを表示します。",
   "ApplicableVersion": "any",
   "Tags": [
