@@ -68,7 +68,7 @@
             "magicLook"
         ],
         "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/Rowsai/magicLook/main/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Rowsai/magicLook/master/images/icon.png",
         "DownloadLinkInstall": "https://github.com/Rowsai/magicLook/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/Rowsai/magicLook/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Rowsai/magicLook/releases/latest/download/latest.zip",
