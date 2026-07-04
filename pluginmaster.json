@@ -33,7 +33,7 @@
         "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
         "Changelog": "https://github.com/Rowsai/HappyTrigger/releases",
         "InternalName": "HappyTrigger",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.3",
         "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
         "ApplicableVersion": "any",
         "Tags": [
