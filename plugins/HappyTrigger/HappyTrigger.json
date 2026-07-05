@@ -13,7 +13,7 @@
         "utility"
     ],
     "DalamudApiLevel": 15,
-    "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/main/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/refs/heads/main/image/icon.png",
     "Changelog": "https://github.com/Rowsai/HappyTrigger/releases",
     "DownloadLinkInstall": "https://github.com/Rowsai/HappyTrigger/releases/download/v0.0.0.2/HappyTrigger.zip",
     "DownloadLinkTesting": "https://github.com/Rowsai/HappyTrigger/releases/download/v0.0.0.2/HappyTrigger.zip",

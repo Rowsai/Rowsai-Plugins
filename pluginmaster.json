@@ -33,7 +33,7 @@
         "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
         "Changelog": "https://github.com/Rowsai/HappyTrigger/releases",
         "InternalName": "HappyTrigger",
-        "AssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.0.0.4",
         "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
         "ApplicableVersion": "any",
         "Tags": [
@@ -42,14 +42,14 @@
             "utility"
         ],
         "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/refs/heads/main/image/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/main/images/icon.png",
         "DownloadLinkInstall": "https://github.com/Rowsai/HappyTrigger/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/Rowsai/HappyTrigger/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Rowsai/HappyTrigger/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 6,
-        "LastUpdate": "1782978135"
+        "DownloadCount": 12,
+        "LastUpdate": "1783199557"
     },
     {
         "Author": "Rowsai",
@@ -68,13 +68,13 @@
             "magicLook"
         ],
         "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/Rowsai/magicLook/refs/heads/master/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Rowsai/magicLook/main/images/icon.png",
         "DownloadLinkInstall": "https://github.com/Rowsai/magicLook/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/Rowsai/magicLook/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Rowsai/magicLook/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 9,
+        "DownloadCount": 10,
         "LastUpdate": "1783165589"
     }
 ]
