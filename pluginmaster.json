@@ -76,5 +76,30 @@
         "IsTestingExclusive": false,
         "DownloadCount": 10,
         "LastUpdate": "1783165589"
+    },
+    {
+        "Author": "Rowsai",
+        "Name": "Phase DPS Checker",
+        "Punchline": "フェーズ単位でパーティDPSとアクション内訳を確認します。",
+        "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
+        "Changelog": "https://github.com/Rowsai/PhaseDpsChecker/releases",
+        "InternalName": "PhaseDpsChecker",
+        "AssemblyVersion": "0.2.1.0",
+        "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat",
+            "dps",
+            "analysis"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "https://raw.githubusercontent.com/Rowsai/PhaseDpsChecker/main/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Rowsai/PhaseDpsChecker/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Rowsai/PhaseDpsChecker/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Rowsai/PhaseDpsChecker/releases/latest/download/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdate": "1784188375"
     }
 ]
