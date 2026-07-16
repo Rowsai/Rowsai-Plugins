@@ -81,10 +81,10 @@
         "Author": "Rowsai",
         "Name": "Phase DPS Checker",
         "Punchline": "フェーズ単位でパーティDPSとアクション内訳を確認します。",
-        "Description": "通常コンテンツと絶妖星乱舞専用のフェーズ条件を切り替え、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。指定台詞、敵視リストの空状態、メテオ中断バトルログ、Phase 4／5の初回パーティ攻撃、どきどきアルテマ完了、コンテンツクリア時の最終攻撃による専用Phase 1～5判定に対応しています。履歴・被ダメージグリッドのヘッダソート、JOBアイコン付きオーバーレイ、被弾時のバフ・デバフ表示にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
+        "Description": "通常コンテンツと絶妖星乱舞専用のフェーズ条件を切り替え、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。指定台詞、敵視リストの空状態、メテオ中断バトルログ、Phase 4の初回パーティ攻撃、Phase 5の専用台詞後のケフカ出現、どきどきアルテマ完了、コンテンツクリア時の最終攻撃による専用Phase 1～5判定に対応しています。履歴・被ダメージグリッドのヘッダソート、JOBアイコン付き現在Phaseオーバーレイ、被弾時のバフ・デバフ表示にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
         "Changelog": "https://github.com/Rowsai/PhaseDpsChecker/releases",
         "InternalName": "PhaseDpsChecker",
-        "AssemblyVersion": "0.4.2.0",
+        "AssemblyVersion": "0.4.3.0",
         "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
         "ApplicableVersion": "any",
         "Tags": [
@@ -100,6 +100,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdate": "1784212247"
+        "LastUpdate": "1784213681"
     }
 ]
