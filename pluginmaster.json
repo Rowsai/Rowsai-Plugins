@@ -84,7 +84,7 @@
         "Description": "戦闘をフェーズ単位で集計し、パーティ全体とメンバー個別のDPS、Crit/DH率、最大ダメージ、Active%、アクション別ダメージ・回復量を表示します。通常計測と絶妖星乱舞専用のPhase 1～5判定を切り替えられます。コンテンツリプレイ動作モードでは、ジョブ名で表示されるメンバーも集計できます。JOBアイコン付きの現在Phaseオーバーレイ、戦闘履歴、被ダメージ、被弾時のバフ・デバフ表示にも対応しています。\nコマンド: /phasedps",
         "Changelog": "https://github.com/Rowsai/PhaseDpsChecker/releases",
         "InternalName": "PhaseDpsChecker",
-        "AssemblyVersion": "0.5.0.0",
+        "AssemblyVersion": "0.5.1.0",
         "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
         "ApplicableVersion": "any",
         "Tags": [
@@ -100,6 +100,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdate": "1784215767"
+        "LastUpdate": "1784220993"
     }
 ]
