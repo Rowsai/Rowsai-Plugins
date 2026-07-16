@@ -81,10 +81,10 @@
         "Author": "Rowsai",
         "Name": "Phase DPS Checker",
         "Punchline": "フェーズ単位でパーティDPSとアクション内訳を確認します。",
-        "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
+        "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴、敵のオートアタックやDoTを含む被ダメージ履歴、被弾時のバフ・デバフ表示にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
         "Changelog": "https://github.com/Rowsai/PhaseDpsChecker/releases",
         "InternalName": "PhaseDpsChecker",
-        "AssemblyVersion": "0.2.1.0",
+        "AssemblyVersion": "0.3.0.0",
         "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
         "ApplicableVersion": "any",
         "Tags": [
@@ -100,6 +100,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdate": "1784188375"
+        "LastUpdate": "1784200056"
     }
 ]
