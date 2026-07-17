@@ -13,3 +13,4 @@ https://raw.githubusercontent.com/Rowsai/Rowsai-Plugins/master/pluginmaster.json
 - HappyTrigger
 - devLibra
 - magicLook
+- Phase DPS Checker
