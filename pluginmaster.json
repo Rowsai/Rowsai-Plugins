@@ -84,7 +84,7 @@
         "Description": "戦闘をフェーズ単位で集計し、DPS、Crit/DH率、最大ダメージ、総合・攻撃・回復別Active%、アクション別ダメージ・回復量・詠唱失敗数を表示します。通常計測、絶妖星乱舞専用判定、コンテンツリプレイ、JOBアイコン付き現在Phaseオーバーレイに対応します。JSON履歴の全体／個別Phase表示、履歴単体削除、被弾履歴、防御系バフ表示、保存ファイルの500MB警告・1GB危険通知を利用できます。\nコマンド: /phasedps",
         "Changelog": "https://github.com/Rowsai/PhaseDpsChecker/releases",
         "InternalName": "PhaseDpsChecker",
-        "AssemblyVersion": "0.7.1.0",
+        "AssemblyVersion": "0.8.0.0",
         "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
         "ApplicableVersion": "any",
         "Tags": [
