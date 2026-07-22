@@ -3,7 +3,7 @@
         "Author": "Rowsai",
         "Name": "devLibra",
         "Punchline": "なんか色々出るやつです",
-        "Description": "Dalamud plugin development helper. Shows party member statuses and enemy casting information.",
+        "Description": "Dalamud plugin development helper with party-list barrier-adjusted HP display.",
         "Changelog": "https://github.com/Rowsai/devLibra/releases",
         "InternalName": "devLibra",
         "AssemblyVersion": "0.0.0.4",
@@ -17,14 +17,14 @@
             "cast"
         ],
         "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/Rowsai/devLibra/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Rowsai/devLibra/releases/latest/download/devLibra.zip",
-        "DownloadLinkTesting": "https://github.com/Rowsai/devLibra/releases/latest/download/devLibra.zip",
-        "DownloadLinkUpdate": "https://github.com/Rowsai/devLibra/releases/latest/download/devLibra.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Rowsai/devLibra/main/image/icon.png",
+        "DownloadLinkInstall": "https://github.com/Rowsai/devLibra/releases/download/v0.0.0.4/devLibra.zip",
+        "DownloadLinkTesting": "https://github.com/Rowsai/devLibra/releases/download/v0.0.0.4/devLibra.zip",
+        "DownloadLinkUpdate": "https://github.com/Rowsai/devLibra/releases/download/v0.0.0.4/devLibra.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 5,
-        "LastUpdate": "1782929052"
+        "LastUpdate": "1784738908"
     },
     {
         "Author": "Rowsai",
