@@ -6,7 +6,7 @@
         "Description": "Dalamud plugin development helper. Shows party member statuses and enemy casting information.",
         "Changelog": "https://github.com/Rowsai/devLibra/releases",
         "InternalName": "devLibra",
-        "AssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.0.0.4",
         "RepoUrl": "https://github.com/Rowsai/devLibra",
         "ApplicableVersion": "any",
         "Tags": [
