@@ -2,14 +2,14 @@
   {
     "Author": "Rowsai",
     "Name": "Crescent Isle Useful Tool",
-    "Punchline": "Useful tools for Occult Crescent exploration.",
-    "Description": "Useful tools for Occult Crescent exploration.\n- Treasure and carrot assistance.\n- FATE and CE panels with navigation support.\n- Optional illegal mode for automated activities.",
+    "Punchline": "南征編・北征編の探索、FATE／CE、宝箱回収を支援します。",
+    "Description": "クレセントアイル向け総合探索支援ツールです。\n- 南征編・北征編のFATE／CE監視と最寄りエーテライト移動\n- 北征編マジックポットの発生予想\n- 宝箱・にんじん探索、宝箱残数、通貨・経験値の計測\n- 任意の不正モードによるアクティビティ移動と戦闘支援",
     "Changelog": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool/releases",
     "InternalName": "BOCCHI",
-    "AssemblyVersion": "3.2.6.0",
+    "AssemblyVersion": "3.2.7.0",
     "RepoUrl": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool",
     "ApplicableVersion": "any",
-    "Tags": ["Occult Crescent", "Crescent Isle", "FATE", "Critical Encounter", "Treasure"],
+    "Tags": ["Occult Crescent", "Crescent Isle", "South Horn", "North Horn", "Automation", "Critical Encounter", "FATE", "Treasure"],
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Rowsai/Crescent-Isle-Useful-Tool/main/assets/icon.png",
     "DownloadLinkInstall": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool/releases/latest/download/latest.zip",
@@ -18,7 +18,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1785510285"
+    "LastUpdate": "1785511375"
   },
   {
     "Author": "Rowsai",
