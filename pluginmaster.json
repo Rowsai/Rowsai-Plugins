@@ -6,7 +6,7 @@
     "Description": "クレセントアイル向け総合探索支援ツールです。\n- 南征編・北征編のFATE／CE監視と最寄りエーテライト移動\n- 北征編マジックポットの発生予想\n- 内部配置データを利用した北征編の青銅・白銀宝箱巡回\n- 宝箱残数、にんじん探索、通貨・経験値の計測\n- 任意の不正モードによるアクティビティ移動と戦闘支援",
     "Changelog": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool/releases",
     "InternalName": "BOCCHI",
-    "AssemblyVersion": "3.2.8.0",
+    "AssemblyVersion": "3.2.9.0",
     "RepoUrl": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool",
     "ApplicableVersion": "any",
     "Tags": ["Occult Crescent", "Crescent Isle", "South Horn", "North Horn", "Automation", "Critical Encounter", "FATE", "Treasure"],
@@ -18,7 +18,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1785512889"
+    "LastUpdate": "1785517766"
   },
   {
     "Author": "Rowsai",
