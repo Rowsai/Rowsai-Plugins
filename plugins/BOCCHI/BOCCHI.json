@@ -4,7 +4,7 @@
   "Punchline": "Useful tools for Occult Crescent exploration.",
   "Description": "Useful tools for Occult Crescent exploration.\n- Treasure and carrot assistance.\n- FATE and CE panels with navigation support.\n- Optional illegal mode for automated activities.",
   "InternalName": "BOCCHI",
-  "AssemblyVersion": "3.2.1.0",
+  "AssemblyVersion": "3.2.2.0",
   "RepoUrl": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool",
   "ApplicableVersion": "any",
   "Tags": [
