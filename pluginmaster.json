@@ -1,6 +1,27 @@
 [
   {
     "Author": "Rowsai",
+    "Name": "Crescent Isle Useful Tool",
+    "Punchline": "Useful tools for Occult Crescent exploration.",
+    "Description": "Useful tools for Occult Crescent exploration.\n- Treasure and carrot assistance.\n- FATE and CE panels with navigation support.\n- Optional illegal mode for automated activities.",
+    "Changelog": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool/releases",
+    "InternalName": "BOCCHI",
+    "AssemblyVersion": "3.2.0.0",
+    "RepoUrl": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool",
+    "ApplicableVersion": "any",
+    "Tags": ["Occult Crescent", "Crescent Isle", "FATE", "Critical Encounter", "Treasure"],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/Rowsai/Crescent-Isle-Useful-Tool/main/assets/icon.png",
+    "DownloadLinkInstall": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": "1785482746"
+  },
+  {
+    "Author": "Rowsai",
     "Name": "devLibra",
     "Punchline": "FFXIV development utilities.",
     "Description": "Dalamud plugin development helper with party-list barrier-adjusted HP display and a Scholar Fairy Gauge overlay.",
