@@ -2,9 +2,9 @@
   "Author": "Rowsai",
   "Name": "Crescent Isle Useful Tool",
   "Punchline": "南征編・北征編の探索、FATE／CE、宝箱回収を支援します。",
-  "Description": "クレセントアイル向け総合探索支援ツールです。\n- 南征編・北征編のFATE／CE監視と最寄りエーテライト移動\n- 北征編マジックポットの発生予想\n- 宝箱・にんじん探索、宝箱残数、通貨・経験値の計測\n- 任意の不正モードによるアクティビティ移動と戦闘支援",
-  "InternalName": "BOCCHI",
-  "AssemblyVersion": "3.2.7.0",
+  "Description": "クレセントアイル向け総合探索支援ツールです。\n- 南征編・北征編のFATE／CE監視とエーテライト経由移動\n- 実測開始時刻に基づく北征編マジックポット発生予想\n- 中断再開できる青銅・白銀宝箱巡回と取得数表示\n- マジカルエリクサーを使ったマジックポット宝箱探索\n- にんじん探索、通貨・経験値の計測\n- 任意の自動操作モードによるアクティビティ移動と戦闘支援",
+  "InternalName": "CrescentIsleUsefulTool",
+  "AssemblyVersion": "4.1.0.0",
   "RepoUrl": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool",
   "ApplicableVersion": "any",
   "Tags": [
