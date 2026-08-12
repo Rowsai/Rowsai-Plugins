@@ -6,7 +6,7 @@ Custom Dalamud plugin repository by Rowsai.
 
 Dalamud Settings → Experimental → Custom Plugin Repositories に以下を追加してください。
 
-https://raw.githubusercontent.com/Rowsai/Rowsai-Plugins/master/pluginmaster.json
+https://raw.githubusercontent.com/Rowsai/Rowsai-Plugins/refs/heads/main/pluginmaster.json
 
 ## Plugins
 
