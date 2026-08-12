@@ -27,7 +27,7 @@
     "Description": "Dalamud plugin development helper with party-list barrier-adjusted HP display and nearby solo-player content-participation nameplate tools.",
     "Changelog": "https://github.com/Rowsai/devLibra/releases",
     "InternalName": "devLibra",
-    "AssemblyVersion": "0.0.0.19",
+    "AssemblyVersion": "0.0.0.20",
     "RepoUrl": "https://github.com/Rowsai/devLibra",
     "ApplicableVersion": "any",
     "Tags": ["dev", "debug", "party", "enemy", "cast", "nameplate", "partysearch"],
@@ -39,7 +39,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 5,
-    "LastUpdate": "1786555342"
+    "LastUpdate": "1786556412"
   },
   {
     "Author": "Rowsai",
