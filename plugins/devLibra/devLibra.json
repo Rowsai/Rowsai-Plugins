@@ -2,7 +2,7 @@
   "Author": "Rowsai",
   "Name": "devLibra",
   "InternalName": "devLibra",
-  "AssemblyVersion": "0.0.0.14",
+  "AssemblyVersion": "0.0.0.15",
   "Description": "Dalamud plugin development helper with party-list barrier-adjusted HP display and nearby solo-player content-participation nameplate tools.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
