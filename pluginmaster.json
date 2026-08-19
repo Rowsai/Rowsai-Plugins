@@ -86,11 +86,11 @@
   {
     "Author": "Rowsai",
     "Name": "Phase DPS Checker",
-    "Punchline": "Checks DPS and action usage by phase.",
-    "Description": "FFXIV Dalamud plugin for reviewing phase DPS and action usage.",
+    "Punchline": "ACT互換集計をフェーズ単位で表示します。",
+    "Description": "IINACTのCombatDataをWebSocketまたはIPCから取得し、DPS、総ダメージ、回復量、Crit/DH率、被ダメージをフェーズ単位で表示します。IINACT未接続時はActionEffect集計へフォールバックします。",
     "Changelog": "https://github.com/Rowsai/PhaseDpsChecker/releases",
     "InternalName": "PhaseDpsChecker",
-    "AssemblyVersion": "0.11.0.0",
+    "AssemblyVersion": "0.11.1.0",
     "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
     "ApplicableVersion": "any",
     "Tags": ["combat", "dps", "analysis"],
@@ -102,6 +102,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1787156719"
+    "LastUpdate": "1787158424"
   }
 ]
