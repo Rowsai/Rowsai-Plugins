@@ -90,7 +90,7 @@
     "Description": "FFXIV Dalamud plugin for reviewing phase DPS and action usage.",
     "Changelog": "https://github.com/Rowsai/PhaseDpsChecker/releases",
     "InternalName": "PhaseDpsChecker",
-    "AssemblyVersion": "0.10.0.0",
+    "AssemblyVersion": "0.11.0.0",
     "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
     "ApplicableVersion": "any",
     "Tags": ["combat", "dps", "analysis"],
@@ -102,6 +102,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1784269479"
+    "LastUpdate": "1787156719"
   }
 ]
