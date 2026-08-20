@@ -87,10 +87,10 @@
     "Author": "Rowsai",
     "Name": "Phase DPS Checker",
     "Punchline": "ACT互換集計をフェーズ単位で表示します。",
-    "Description": "IINACTのCombatDataをWebSocketまたはIPCから取得し、DPS、総ダメージ、HPS、総回復量、被ダメージ、ヒット数、Crit数、ペット合算値を表示します。IINACT END、全滅、コンテンツクリアで計測を終了して履歴へ保存します。IINACT未接続時はActionEffect集計へフォールバックします。",
+    "Description": "IINACTのCombatDataをWebSocketまたはIPCから取得し、DPS、総ダメージ、HPS、総回復量、被ダメージ、ヒット数、Crit数、ペット合算値を表示します。終了済みデータの再利用を防ぎ、概要とアクション内訳を一致させます。IINACT END、全滅、コンテンツクリアで計測を終了して履歴へ保存します。",
     "Changelog": "https://github.com/Rowsai/PhaseDpsChecker/releases",
     "InternalName": "PhaseDpsChecker",
-    "AssemblyVersion": "0.11.2.0",
+    "AssemblyVersion": "0.11.3.0",
     "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
     "ApplicableVersion": "any",
     "Tags": ["combat", "dps", "analysis"],
@@ -102,6 +102,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1787211067"
+    "LastUpdate": "1787213516"
   }
 ]
