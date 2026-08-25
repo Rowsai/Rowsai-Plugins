@@ -103,5 +103,26 @@
     "IsTestingExclusive": false,
     "DownloadCount": 0,
     "LastUpdate": "1787213516"
+  },
+  {
+    "Author": "Rowsai",
+    "Name": "AutoStrategyBoardPagination",
+    "Punchline": "ストラテジーボードを自動でページ送りしたりするやつです",
+    "Description": "/asbp 図面名で指定の図面を閲覧モードで表示可能。\n- 自動化モードで、任意のバトルログに反応して対象の図面を閲覧モードで表示可能。",
+    "Changelog": "https://github.com/Rowsai/AutoStrategyBoardPagination/releases",
+    "InternalName": "AutoStrategyBoardPagination",
+    "AssemblyVersion": "0.11.3.0",
+    "RepoUrl": "https://github.com/Rowsai/AutoStrategyBoardPagination",
+    "ApplicableVersion": "any",
+    "Tags": ["StrategyBoard","trigger","utility"],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/Rowsai/AutoStrategyBoardPagination/main/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/Rowsai/AutoStrategyBoardPagination/releases/latest/download//latest.zip",
+    "DownloadLinkTesting": "https://github.com/Rowsai/AutoStrategyBoardPagination/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Rowsai/AutoStrategyBoardPagination/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": "1787213516"
   }
 ]
