@@ -111,7 +111,7 @@
     "Description": "/asbp 図面名で指定の図面を閲覧モードで表示可能。\n- 自動化モードで、任意のバトルログに反応して対象の図面を閲覧モードで表示可能。",
     "Changelog": "https://github.com/Rowsai/AutoStrategyBoardPagination/releases",
     "InternalName": "AutoStrategyBoardPagination",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.0.0.0",
     "RepoUrl": "https://github.com/Rowsai/AutoStrategyBoardPagination",
     "ApplicableVersion": "any",
     "Tags": ["StrategyBoard","trigger","utility"],
