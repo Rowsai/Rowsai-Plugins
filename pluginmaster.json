@@ -17,8 +17,6 @@
     "DownloadLinkUpdate": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 35,
-    "LastUpdate": "1786284370"
   },
   {
     "Author": "Rowsai",
@@ -38,8 +36,6 @@
     "DownloadLinkUpdate": "https://github.com/Rowsai/devLibra/releases/download/v0.0.0.23/devLibra.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 5,
-    "LastUpdate": "1786634988"
   },
   {
     "Author": "Rowsai",
@@ -59,8 +55,6 @@
     "DownloadLinkUpdate": "https://github.com/Rowsai/HappyTrigger/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 12,
-    "LastUpdate": "1783199557"
   },
   {
     "Author": "Rowsai",
@@ -80,8 +74,6 @@
     "DownloadLinkUpdate": "https://github.com/Rowsai/magicLook/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 10,
-    "LastUpdate": "1783165589"
   },
   {
     "Author": "Rowsai",
@@ -101,8 +93,6 @@
     "DownloadLinkUpdate": "https://github.com/Rowsai/PhaseDpsChecker/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 0,
-    "LastUpdate": "1787213516"
   },
   {
     "Author": "Rowsai",
@@ -122,7 +112,24 @@
     "DownloadLinkUpdate": "https://github.com/Rowsai/AutoStrategyBoardPagination/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 0,
-    "LastUpdate": "1787213516"
+  },
+  {
+    "Author": "Rowsai",
+    "Name": "Auto Make Timelin e",
+    "Punchline": "エネミーの攻撃を自動で取得してタイムラインを作成するためのプラグインです",
+    "Description": "/amt on プラグイン機能を有効化。\n- /amt off プラグイン機能を無効化。",
+    "Changelog": "https://github.com/Rowsai/AutoMakeTimeline/releases",
+    "InternalName": "AutoMakeTimeline",
+    "AssemblyVersion": "1.0.0.2",
+    "RepoUrl": "https://github.com/Rowsai/AutoMakeTimeline",
+    "ApplicableVersion": "any",
+    "Tags": ["trigger","utility"],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/Rowsai/AutoMakeTimeline/assets/icon.png",
+    "DownloadLinkInstall": "https://github.com/Rowsai/AutoMakeTimeline/releases/latest/download//latest.zip",
+    "DownloadLinkTesting": "https://github.com/Rowsai/AutoMakeTimeline/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Rowsai/AutoMakeTimeline/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
   }
 ]
