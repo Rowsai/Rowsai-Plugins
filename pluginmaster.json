@@ -125,7 +125,7 @@
     "ApplicableVersion": "any",
     "Tags": ["trigger","utility"],
     "DalamudApiLevel": 15,
-    "IconUrl": "https://raw.githubusercontent.com/Rowsai/AutoMakeTimeline/assets/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Rowsai/AutoMakeTimeline/refs/heads/main/assets/icon.png",
     "DownloadLinkInstall": "https://github.com/Rowsai/AutoMakeTimeline/releases/latest/download//latest.zip",
     "DownloadLinkTesting": "https://github.com/Rowsai/AutoMakeTimeline/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Rowsai/AutoMakeTimeline/releases/latest/download/latest.zip",
