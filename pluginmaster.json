@@ -96,7 +96,7 @@
   },
   {
     "Author": "Rowsai",
-    "Name": "Auto Make Timelin e",
+    "Name": "Auto Make Timeline",
     "Punchline": "エネミーの攻撃を自動で取得してタイムラインを作成するためのプラグインです",
     "Description": "/amt on プラグイン機能を有効化。\n- /amt off プラグイン機能を無効化。",
     "Changelog": "https://github.com/Rowsai/AutoMakeTimeline/releases",
