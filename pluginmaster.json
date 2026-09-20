@@ -101,7 +101,7 @@
     "Description": "/amt on プラグイン機能を有効化。\n- /amt off プラグイン機能を無効化。",
     "Changelog": "https://github.com/Rowsai/AutoMakeTimeline/releases",
     "InternalName": "AutoMakeTimeline",
-    "AssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
     "RepoUrl": "https://github.com/Rowsai/AutoMakeTimeline",
     "ApplicableVersion": "any",
     "Tags": ["trigger","utility"],
