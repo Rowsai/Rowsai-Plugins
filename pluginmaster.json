@@ -126,7 +126,7 @@
     "Tags": ["trigger","utility"],
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Rowsai/FullCopyHudLayout/refs/heads/main/FullCopyHudLayout/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/Rowsai/FullCopyHudLayout/releases/latest/download//latest.zip",
+    "DownloadLinkInstall": "https://github.com/Rowsai/FullCopyHudLayout/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Rowsai/FullCopyHudLayout/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Rowsai/FullCopyHudLayout/releases/latest/download/latest.zip",
     "IsHide": false,
@@ -144,11 +144,11 @@
     "ApplicableVersion": "any",
     "Tags": ["trigger","utility"],
     "DalamudApiLevel": 15,
-    "IconUrl": "https://raw.githubusercontent.com/Rowsai/ArtisansMaterialBoard/refs/heads/main/bin/Release/icon.png",
-    "DownloadLinkInstall": "https://github.com/Rowsai/ArtisansMaterialBoard/releases/latest/download//latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Rowsai/ArtisansMaterialBoard/main/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/Rowsai/ArtisansMaterialBoard/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Rowsai/ArtisansMaterialBoard/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Rowsai/ArtisansMaterialBoard/releases/latest/download/latest.zip",
     "IsHide": false,
-    "IsTestingExclusive": false,
+    "IsTestingExclusive": false
   }
 ]
