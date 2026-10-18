@@ -1,4 +1,4 @@
-# Rowsai Plugins
+# Rowsai's Plugins
 
 Custom Dalamud plugin repository by Rowsai.
 
