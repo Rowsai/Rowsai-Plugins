@@ -10,7 +10,11 @@ https://raw.githubusercontent.com/Rowsai/Rowsai-Plugins/refs/heads/main/pluginma
 
 ## Plugins
 
-- HappyTrigger
-- devLibra
-- magicLook
-- Phase DPS Checker
+ - Artisan's Material Board
+ - Auto Make Timeline
+ - Auto Strategy Board Pagination
+ - Crescent Isle Useful Tool
+ - devLibra
+ - FullCopyHudLayout
+ - HappyTrigger
+ - Phase DPS Checker
